@@ -1,0 +1,33 @@
+{
+  "name": "npm-node-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhoshin/npm-node-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhoshin/npm-node-modules/issues"
+  },
+  "homepage": "https://github.com/minhoshin/npm-node-modules#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "ioredis": "^3.2.2",
+    "mongoose": "^5.1.7",
+    "morgan": "^1.9.0",
+    "sequelize": "^4.38.0",
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.1",
+    "supertest": "^3.1.0"
+  }
+}
