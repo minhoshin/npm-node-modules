@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/minhoshin/npm-node-modules#readme",
   "dependencies": {
+    "bootstrap": "^4.1.3",
     "cors": "^2.8.4",
+    "ejs": "^2.6.1",
     "express": "^4.16.3",
+    "express-session": "^1.15.6",
     "ioredis": "^3.2.2",
     "mongoose": "^5.1.7",
     "morgan": "^1.9.0",
