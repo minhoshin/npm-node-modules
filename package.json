@@ -27,6 +27,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "express-session": "^1.15.6",
+    "image-downloader": "^3.4.1",
     "ioredis": "^3.2.2",
     "lodash": "^4.17.10",
     "mongoose": "^5.1.7",
@@ -42,6 +43,7 @@
     "socket.io": "^2.1.1",
     "sqlite3": "^4.0.2",
     "superagent": "^3.8.3",
+    "thumbnail": "^0.1.9",
     "tooltip.js": "^1.2.0",
     "vue": "^2.5.16"
   },
