@@ -41,11 +41,13 @@
     "request": "^2.87.0",
     "sequelize": "^4.38.0",
     "socket.io": "^2.1.1",
+    "sqlite": "^2.9.2",
     "sqlite3": "^4.0.2",
     "superagent": "^3.8.3",
     "thumbnail": "^0.1.9",
     "tooltip.js": "^1.2.0",
-    "vue": "^2.5.16"
+    "vue": "^2.5.16",
+    "vue-cli": "^2.9.6"
   },
   "devDependencies": {
     "lite-server": "^2.4.0",
